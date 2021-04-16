@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <h2 align="center">:bar_chart: Stats </h2>
 <p align="left">
   
- <img src="https://github-readme-stats.vercel.app/api?username=mstrYoda&show_icons=true&theme=white"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=burhanorkun&show_icons=true&theme=white"/>
  <img src="https://github-readme-stackoverflow.vercel.app/?userID=4430183"/>
  
 </p>
