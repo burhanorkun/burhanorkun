@@ -80,6 +80,7 @@ Here are some ideas to get you started:
   </a>
   <br>
 </p>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/semyon-kirekov-4570b818a/)](https://www.linkedin.com/in/semyon-kirekov-4570b818a/)
 
 
 <h2 align="center">:bar_chart: Stats </h2>
