@@ -23,27 +23,27 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="45" height="45" />
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="45" height="45" />-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate"/>
+  <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg" alt="couchbase"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/>
   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio"/>
   <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-ar21.svg" alt="OPA"/>
   <img src="https://www.vectorlogo.zone/logos/cncfio/cncfio-ar21.svg" alt="cncf"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate"/>
-  <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg" alt="couchbase"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".NET" />
+  <!--<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".NET" />-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 </p>
 
 
