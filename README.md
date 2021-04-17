@@ -20,6 +20,12 @@ Here are some ideas to get you started:
   <samp>Software Engineer @Turkcell</samp>
 </p>
 
+### About
+
+<!-- -  **Learning :** Full-Stack Development :fire: | Open-Source :thumbsup: -->
+<!-- -  **Languages :** Java, Javascript/Typescript -->
+-  **Fact :** Writing testable and maintainable code is an essential thing :star: 
+-  **Hobbies :** Motocycle 🛵:, Camp ⛺:, and board games :green_book:
 
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
