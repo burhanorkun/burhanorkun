@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">✍️ Social</h2>
 <p align="left">
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burhan-orkun-925a2216/)](https://www.linkedin.com/in/burhan-orkun-925a2216/)
   <a href="https://twitter.com/beyazmartilar" title='Twitter'>
     <img align="left" alt="Burhan Orkun | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
   </a>
